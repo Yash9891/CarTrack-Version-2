@@ -1,6 +1,6 @@
 # CarTrack Version 2.0                                                      
 
-## Visit our website [CarTrack](https://cartrack-rebeltechs.netlify.app/](https://cartrack2.netlify.app/).
+## Visit our website [CarTrack](https://cartrack2.netlify.app/).
 
 CarTrack is a visually stunning website dedicated to showcasing various car models. 
 Whether you're a car enthusiast, a prospective buyer, or simply appreciate the beauty of automobiles, CarTrack offers a delightful browsing experience. 
